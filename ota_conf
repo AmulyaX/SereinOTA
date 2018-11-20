@@ -1,0 +1,11 @@
+
+
+# ota_conf
+
+ota_url=https://raw.githubusercontent.com/AmulyaX/SereinOTA/master/vince.xml
+release_type=Official
+device_name=ro.serein.device
+version_source=ro.serein.build.version
+version_delimiter=-
+version_position=4
+version_format=yyyyMMdd
